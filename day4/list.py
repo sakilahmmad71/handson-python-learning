@@ -11,6 +11,8 @@ thislist.reverse()
 
 print(thislist)
 
+def showName(arg) :
+
 # append(item), insert(position, element)
 # remove(item), pop(), del specific[item], clear()
 # list.copy(), list(listItem)
